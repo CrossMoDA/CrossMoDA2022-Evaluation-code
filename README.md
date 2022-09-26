@@ -2,6 +2,7 @@
 
 If you use this code, please cite:
 
+```
 @article{Dorent_2022,
 	doi = {10.1016/j.media.2022.102628},
   
@@ -21,3 +22,4 @@ If you use this code, please cite:
   
 	journal = {Medical Image Analysis}
 }
+```
