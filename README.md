@@ -23,3 +23,18 @@ If you use this code, please cite:
 	journal = {Medical Image Analysis}
 }
 ```
+
+# Results
+
+## Global ranking
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/17268715/194463696-260bae13-dddb-42a4-86c6-eceec2c52307.png">
+
+##  Evaluation per structure
+
+### Vestibular Schwannoma
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/17268715/194463747-a72dc3b2-6af2-4ebf-8678-5c790d735b32.png">
+
+### Cochlea
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/17268715/194463915-b9fbd854-2d66-41cd-a48c-f06fd4a6a286.png">
+
+
