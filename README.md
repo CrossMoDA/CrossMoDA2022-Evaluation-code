@@ -26,6 +26,12 @@ If you use this code, please cite:
 
 # Results
 
+## Scores
+Metrics values and corresponding scores of submission. Median and interquartile values are presented. The best results are given in bold. Arrows indicate
+favourable direction of each metric.
+![image](https://user-images.githubusercontent.com/17268715/200420391-85db5c2e-3dc1-4a44-af0e-9933f2b22598.png)
+
+
 ## Global ranking
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/17268715/194463696-260bae13-dddb-42a4-86c6-eceec2c52307.png">
 
